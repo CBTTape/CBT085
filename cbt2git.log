@@ -1,0 +1,5 @@
+2023-08-06 00:47:15.894813 - Initialized conversion of CBT085
+2023-08-06 00:47:15.910559 - Received CBT.V505.FILE085.PDS from FILE085.XMI 
+2023-08-06 00:47:15.912812 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE085.PDS, moved to PDS/$$$#DATE
+2023-08-06 00:47:15.913845 - Found @FILE085.txt (text/plain) in CBT.V505.FILE085.PDS, moved to PDS/@FILE085
+2023-08-06 00:47:15.913856 - Found PFXREF.bin containing application/octet-stream, moved to PDS/PFXREF
